@@ -91,8 +91,7 @@ if st.button("Review Analysis"):
   st.success('Model has predicted {}'.format(result))
       
 if st.button("About"):
-  st.subheader("Developed by Deepak Moud")
-  st.subheader("Head , Department of Computer Engineering")
+  st.subheader("Developed by Mohit Taimni")
 html_temp = """
    <div class="" style="background-color:orange;" >
    <div class="clearfix">           
